@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Gabriel Santos Diniz",
+        "usuario": "diniz",
+        "senha": "scrypt:32768:8:1$ToFDnewbLFO79vXR$bde3ef63e74e5a5b074b8acc622893bcceca0f0e910ebffebe6822337126055e29e8fbf138ea7e6c79ddf8419e7de1d1b35cc6c5788e0054df9ec2a39b9c0b32"
+    },
+    {
+        "nome": "Vanilda Lima Santos",
+        "usuario": "Vanilda",
+        "senha": "scrypt:32768:8:1$f4r9aNuWpjhnNz3p$afca8fb9079a3fa51866d375352011745bdb662649a2f7f461057edf7df80801520112767d0eb130d27c7a745fdf6fbf6ebeaaff03d689d64dace0c88115f31b"
+    },
+    {
+        "nome": "Vanilda Lima Santos",
+        "usuario": "123",
+        "senha": "scrypt:32768:8:1$MRIBicgIpjsr9O3B$fb78e1dc3f16a46c4777aaa8db2e7ced51c762df1c9e64c61abbb615e2a25882a1015a5d7a59e748437d3889c2ff36156034a54991cb4bc48700805a2b5f7265"
+    }
+]
